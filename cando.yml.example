@@ -1,0 +1,17 @@
+hacking:
+  verb: do some
+  options:
+  - Coreboot
+  - Python-Fedora
+  - ProGit
+  - apps.fp.o
+book:
+  verb: read a
+  options:
+  - Languages and machines
+  - Raspberry pi hacks
+website:
+  verb: browse a
+  options:
+  - Wikipedia
+  - LWN
